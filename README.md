@@ -10,4 +10,4 @@
 * RU -
 **Программа генерирует `нечто` на подобии `карт` благодаря так называемым `случайным блужданиям`**
 
-![Иллюстрация к проекту](https://github.com/Apanazar/map_creator/blob/master/mapa.jpg)
+![Иллюстрация к проекту](https://github.com/Apanazar/stuprum/blob/master/mapa.jpg)
