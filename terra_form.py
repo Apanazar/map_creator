@@ -47,7 +47,7 @@ while True:
 	plt.scatter(0, 0, c='blue', edgecolor='black', s=100)
 	plt.scatter(rw.x_values[-1], rw.y_values[-1], c='red', edgecolor='black', s=100)
 
-	plt.show()
+	plt.savefig("mygraph.png")
 	keep_running = input("Построить новое блуждание? (Y/N): ")
 	if keep_running == "n":
 		break
