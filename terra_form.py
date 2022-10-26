@@ -48,6 +48,6 @@ while True:
 	plt.scatter(rw.x_values[-1], rw.y_values[-1], c='red', edgecolor='black', s=100)
 
 	plt.savefig("mygraph.png")
-	keep_running = input("Build a new wander?? (Y/N): ")
+	keep_running = input("Build a new wander? (Y/N): ")
 	if keep_running == "n":
 		break
